@@ -20,9 +20,17 @@ These instructions will help you set up and use the PointNClick tool on your loc
 - `pyautogui` and `keyboard` libraries
 
 ## Installation
-To install the necessary libraries, run the following commands:
+To install the necessary libraries, run the following command:
 ```bash
 pip install pyautogui keyboard
+```
+## Startup
+To start the script run the command that pertains to the script:
+```bash
+Python autoclick.py
+```
+```bash
+Python coordinates.py
 ```
 
 ## Other Notes
